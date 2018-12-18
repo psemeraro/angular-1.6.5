@@ -1,6 +1,11 @@
-# GsRecipesUi
+# angular_1.6.5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+
+This project will be useful to anyone who MUST use Angular 1.6.5 for the creation of a new project - and needs to track that project using Git.
+
+This project was created because integrating Git with Angular 1.6.5 proved to be unusually difficult.
+
 
 ## Development server
 
